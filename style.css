@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 9%;
+    margin-top: 0;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+.profile-img{
+    width: 80%;
+
+}
+
+.details{
+    margin-top: 70px;
+}
+
+.name{
+    color: tomato;
+}
+p{
+    color: dimgray;
+    width: 400px;
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(180deg, tomato, rgb(226, 52, 52));
+    padding: 10px;
+    border-radius: 5px;
+}
+.img-width{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.img-width img{
+    width: 100%;
+}
+
+.first-img{
+    margin-left: 130px;
+  
+}
+.project-title{
+    text-align: center;
+}
+
+section{
+    height: 500px;
+}
+
+.project{
+    background-color: #e2e4e9;
+    padding: 4%;
+}
+
+.project img{
+   margin-top: 50px;
+}
+
+.inquiry{
+    margin-left: 260px;
+    width: 60%;
+    height: 200px;
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: cover;
+    border-radius: 7px;
+}
+
+.float{
+    float: left;
+}
+.linked-1{
+    margin-top: 99px;
+    margin-left: 300px;
+}
+.linked-0{
+    margin-top: 73px;
+    margin-left: 80px;
+}
+.connect{
+    background-color: #e2e4e9;
+}
+
+.social{
+    text-align: center;
+}
+
+.social img{
+    width: 40px;
+    margin: 10px;
+}
